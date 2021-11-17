@@ -32,6 +32,34 @@
         <div class="img-container">
           <img src="hobby.png">
         </div>
+        <h2>
+         <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Hobby</th>
+                <th scope="col">Achievement</th>
+              </tr>
+            </thead>
+          <tbody>
+            <tr>
+              <th scope="row">1</th>
+              <td>Reading Manga</td>
+              <td>None</td>
+            </tr>
+            <tr>
+              <th scope="row">2</th>
+              <td>Overthinking</td>
+              <td>None</td>
+            </tr>
+            <tr>
+              <th scope="row">3</th>
+              <td>Gaming</td>
+              <td>None</td>
+            </tr>
+          </tbody>
+        </table>
+        </h2>
         
       </div>
       <div class="carousel-item">

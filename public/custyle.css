@@ -26,6 +26,21 @@
       color: rgb(0, 0, 0);
       font-size: 15px;
   }
+
+  .list{
+      width: 100%;
+      position: absolute;
+  }
+  .list ul{
+      height: 30px;
+  }
+  .list ul li{
+      display: inline-table;
+      margin: center;
+      padding-left: 800px;
+      color: white;
+      font-size: 15px;
+  }
   
   .animation-area{
       background: linear-gradient(to left, #8942a8, #eedcda);
