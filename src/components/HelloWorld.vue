@@ -15,29 +15,28 @@
   <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <h2>
-          Hello my name is Jasen Jonathan
-        </h2>
-        <div class="carousel-caption d-none d-md-block">
-          <h5>About Me</h5>
-          <p>Profile</p>
-        </div>
         <div class="img-container">
-            <img src="prof.jpg">
+            <img src="profile.jpg">
         </div>
+          <h2>
+            Hello my name is Jasen Jonathan
+          </h2>
+        <h3>
+          saya seorang mahasiswa dari Universitas Multi Data Palembang.<br>
+          18 tahun<br>
+          NEET<br>
+          beragama buddha
+        </h3>
       </div>
       <div class="carousel-item">
-        <img src="" class="d-block w-100">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Second slide label</h5>
-          <p>Some representative placeholder content for the second slide.</p>
+        <div class="img-container">
+          <img src="hobby.png">
         </div>
+        
       </div>
       <div class="carousel-item">
-        <img src="" class="d-block w-100">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Third slide label</h5>
-          <p>Some representative placeholder content for the third slide.</p>
+        <div class="img-container">
+          <img src="gear.png">
         </div>
       </div>
     </div>
